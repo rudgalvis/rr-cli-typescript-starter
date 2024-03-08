@@ -1,10 +1,10 @@
 # rr-cli-starter: Typescript 5 to ESNext
 [Getting started](#getting-started) | [Structure](#structure) | [Developing CLI app example](#developing-cli-app-example) | [Gotchas](#gotchas)
 
-![Static Badge](https://img.shields.io/badge/keywords-Typescript%205%2C%20CLI%2C%20starter-blue)
 ![Static Badge](https://img.shields.io/badge/license-MIT-green)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/rudgalvis/rr-cli-typescript-starter.svg)](https://github.com/rudgalvis/rr-cli-typescript-starter)
 [![GitHub last commit](https://img.shields.io/github/last-commit/rudgalvis/rr-cli-typescript-starter)](https://github.com/rudgalvis/rr-cli-typescript-starter)
+![Static Badge](https://img.shields.io/badge/keywords-Typescript%205%2C%20CLI%2C%20starter-blue)
 
 Most minimal Typescript starter. It has only `Typescript` and `@types/node` as dependencies. In current state it's perfect for:
 **CLI tool development** & **draft projects**
