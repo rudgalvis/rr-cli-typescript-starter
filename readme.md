@@ -9,11 +9,6 @@
 Most minimal Typescript starter. It has only `Typescript` and `@types/node` as dependencies. In current state it's perfect for:
 **CLI tool development** & **draft projects**
 
-
-
-
-
-
 ## Getting started
 
 Clone the repository and install the dependencies

@@ -1,6 +1,6 @@
 {
   "name": "rr-cli-typescript-starter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The minimal Typescript starter for CLI tool development and small projects, provides a straightforward setup and structure for compiling Typescript to ESNext",
   "author": "Rokas Rudgalvis",
   "type": "module",
