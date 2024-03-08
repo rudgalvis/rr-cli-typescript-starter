@@ -39,7 +39,7 @@ npm run dev
 
 Out of the box structure is as follows:
 
-```bash
+```
 |-src
   |  |-bin
   |  |  |-feature
@@ -51,7 +51,7 @@ Out of the box structure is as follows:
 
 It compiles to CLI ready script
 
-```bash
+```
 |-dist
   |  |-bin
   |  |  |-feature
@@ -76,7 +76,7 @@ _Development note: You can use your own structure or follow recommendation below
 
 Your CLI commands are described under `bin` property in package.json.
 
-```json
+```
 // package.json
 {
   ...
@@ -97,7 +97,7 @@ Setup npm scripts for:
 
 Update `package.json` as following (make sure repo name is the same as used in unlink command):
 
-```json
+```
 // package.json
 {
   "name": "<name-of-the-repository>",
