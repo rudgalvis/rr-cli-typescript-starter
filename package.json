@@ -1,0 +1,21 @@
+{
+  "name": "rr-cli-typescript-starter",
+  "version": "0.0.1",
+  "description": "The minimal Typescript starter for CLI tool development and small projects, provides a straightforward setup and structure for compiling Typescript to ESNext",
+  "author": "Rokas Rudgalvis",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "unlink": "npm unlink rr-cli-typescript-starter",
+    "link": "npm run unlink && npm link --local",
+    "test-local-hello-world": "npm run link && hello-world"
+  },
+  "bin": {
+    "hello-world": "dist/bin/hello-world/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.2.2"
+  }
+}
