@@ -69,9 +69,6 @@ Start developing: run watcher to compile typescript to esnext
 npm run dev
 ```
 
-_Development note: You can use your own structure or follow recommendation below ([view Structure](##Structure))_
-
-
 #### Setting up package.json
 
 Your CLI commands are described under `bin` property in package.json.
