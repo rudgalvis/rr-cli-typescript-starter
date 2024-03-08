@@ -10,7 +10,7 @@ Most minimal Typescript starter. It has only `Typescript` and `@types/node` as d
 Clone the repository and install the dependencies
 
 ```bash
-git clone ...
+git clone git@github.com:rudgalvis/rr-cli-typescript-starter.git
 ```
 
 Remove git associated files, to be able to connect fresh repo of yours.
